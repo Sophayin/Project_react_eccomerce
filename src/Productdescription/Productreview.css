@@ -1,0 +1,13 @@
+.Gallery {
+    margin: 0;
+    box-sizing: border-box;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.Gallery li{
+    margin: 0 auto;
+    display: inline-block;
+}
+.gallery_li{
+    margin-top: 10px;
+}

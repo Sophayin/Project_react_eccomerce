@@ -1,0 +1,49 @@
+.TopCategories{
+    background-color: antiquewhite;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.Navcategories{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.Navcategories Link li{
+    text-decoration: none;
+}
+.Category{
+    margin-top: 5px;
+    bottom: 15px;
+    padding-bottom: 15px;
+}
+.Category li{
+    color: gray;
+    list-style: none;
+    text-decoration: none;
+    display: stretch;
+    cursor: pointer;
+    
+}
+a{
+    text-decoration: none;
+}
+.Category li a{
+    list-style: none;
+    text-decoration: none;
+    transition: all ease 0.3s;
+}
+.Category li:hover{
+    color: gold;
+    text-decoration: none;
+}
+.Subcategory{
+    margin-top: 15px;
+}
+.Bannerstyle{
+    margin-top: -15px;
+
+}
+.Marginslide{
+    margin-top: 150px;
+    padding: 0;
+}

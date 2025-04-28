@@ -1,0 +1,31 @@
+
+.Menubar li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px;
+    color: grey;
+    text-decoration: none;
+}
+.profileicon{
+    margin-left: 240px;
+    color: gray;
+    overflow: auto;
+    white-space: hidden;
+}
+.iconsection{
+    margin-right: 140px;
+}
+.dropbox{
+    margin-top: 0;
+    margin-left: 65%;
+    border-radius: 5px;
+}
+.boxmenu{
+    position: relative;
+    
+}
+.Menufloat{
+    position: absolute;
+   top: 0 !important;
+   left: 0 !important;
+}
