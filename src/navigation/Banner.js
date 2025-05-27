@@ -4,13 +4,13 @@ import React from 'react'
 import '../navigation/Banner.css'
 const BannerImage =[
     {
-      file: 'http://localhost:3000/static/media/image.13e210b130d7e7fd8b7d.png',
+      file: 'https://thumbs.dreamstime.com/b/welcome-sign-letters-confetti-background-celebration-greeting-holiday-illustration-banner-confetti-decoration-93802937.jpg',
     },
     {
-        file: 'http://localhost:3000/static/media/image.13e210b130d7e7fd8b7d.png',
+        file: 'https://thumbs.dreamstime.com/b/welcome-sign-letters-confetti-background-celebration-greeting-holiday-illustration-banner-confetti-decoration-93802937.jpg',
       },
       {
-        file: 'http://localhost:3000/static/media/image.13e210b130d7e7fd8b7d.png',
+        file: 'https://thumbs.dreamstime.com/b/welcome-sign-letters-confetti-background-celebration-greeting-holiday-illustration-banner-confetti-decoration-93802937.jpg',
       },
 ];
 

@@ -49,7 +49,7 @@ function Navbar() {
                   <Link to={'/'}>
 
                     <Typography>
-                      <img src="https://content-asset.phsar121.com/products/NDeqC5ui1YLvckFJzHPMbSRTD2yeRFYkhpalmV3N.png" alt='image' className='logo' />
+                      <img src="https://res.cloudinary.com/teepublic/image/private/s--5pYIRsnQ--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1574815141/production/designs/6909766_0.jpg" alt='image' className='logo' />
                     </Typography>
                   </Link>
                 </Grid>
@@ -108,7 +108,7 @@ function Navbar() {
           </Toolbar>
         </AppBar>
       </Typography>
-      <List sx={{ zIndex: '99', bgcolor: 'background.paper', maxWidth: 400, marginTop: '-50px', position: 'absolute', marginLeft: '1075px' }} component="nav" aria-label="mailbox folders">
+      {/* <List sx={{ zIndex: '99', bgcolor: 'background.paper', maxWidth: 400, marginTop: '-50px', position: 'absolute', marginLeft: '1075px' }} component="nav" aria-label="mailbox folders">
         <Card sx={{ width: '100%', maxWidth: 360, display: 'flex', position: 'relative' }}>
           <CardMedia
             component="img"
@@ -119,7 +119,7 @@ function Navbar() {
           <Box sx={{ display: 'flex', flexDirection: 'column' }}>
             <CardContent sx={{ flex: '1 0 auto' }}>
               <Typography component="div" variant="p">
-                Price
+                Pricessss
               </Typography>
               <Typography component="div" variant="p">
                 Product
@@ -153,7 +153,7 @@ function Navbar() {
             <ClearIcon />
           </Button>
         </Card>
-      </List>
+      </List> */}
       {/* <Typography>
         <AppBar sx={{ backgroundColor: 'whitesmoke', border: '1px solide gray', boxShadow: 'none'}}>
           <Toolbar>

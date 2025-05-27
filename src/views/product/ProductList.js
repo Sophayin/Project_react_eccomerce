@@ -104,7 +104,6 @@ function ProductList() {
                                 <Typography variant='p' component='p' sx={{ position: 'absolute', ml: '70%', cursor: 'pointer' }}>
 
                                     <FavoriteBorderIcon />
-
                                     <Button>
                                         <ShoppingCartIcon />
                                     </Button>

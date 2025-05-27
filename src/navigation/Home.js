@@ -16,7 +16,7 @@ function Home() {
    <>
     <Container >
       <Box>
-         <TourCard />
+         {/* <TourCard /> */}
       </Box>
       <Banner />
       <ProductList />

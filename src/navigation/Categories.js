@@ -15,7 +15,7 @@ function Categories() {
   return (
     <>
     <Container> 
-        {/* < Categoriesdetails
+        < Categoriesdetails
             item={
               <div>
                 <Box sx={{ bgcolor: 'whitesmoke', position: 'relative'}}>
@@ -33,8 +33,8 @@ function Categories() {
                 </Box>
               </div>
             }
-          /> */}
-        <Categoriesdetails />
+          />
+        {/* <Categoriesdetails /> */}
      </Container>
     </>
   )
